@@ -9,3 +9,5 @@ Dice Roller a été conçu avec JavaScript et CSS pour permettre aux utilisateur
 ## Comment utiliser Dice Roller
 
 Pour utiliser Dice Roller, il vous suffit de cloner le projet et de lancer le fichier index.html dans votre navigateur web. Une fois sur la page, suivez les instructions du prompt.
+
+[!resultat.jpg](./images/resultat.jpg)
