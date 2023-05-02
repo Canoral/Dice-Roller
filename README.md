@@ -6,6 +6,12 @@
 
 Dice Roller a été conçu avec JavaScript et CSS pour permettre aux utilisateurs de lancer des dés en ligne. Le programme est facile à utiliser et permet de lancer des dés aléatoires entre 1 et 6. Vous pouvez également choisir le nombre de dés que vous voulez lancer à chaque fois.
 
+## Technologie
+
+- Javascript
+- CSS
+- HTML
+
 ## Utilisation
 
 Pour utiliser Dice Roller, il vous suffit de cloner le projet et de lancer le fichier index.html dans votre navigateur web. Une fois sur la page, suivez les instructions du prompt.
